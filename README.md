@@ -1,1 +1,1 @@
-![Workflow](Workflow (Community) (1).png)
+![Workflow](Workflow.png)
